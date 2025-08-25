@@ -55,7 +55,7 @@ Open a terminal and run:
 
 ```bash
 git clone https://github.com/smil22/analogrok.git
-cd ANALOGROK
+cd analogrok
 ```
 
 ### 2. Create and activate a virtual environment
