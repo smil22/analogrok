@@ -4,7 +4,6 @@ atomicwrites==1.4.0
 attrs==23.2.0
 backports.weakref==1.0.post1
 brotlipy==0.7.0
-catboost @ https://pypi.org/packages/cp311/c/catboost/catboost-1.2-cp311-cp311-manylinux2014_x86_64.whl
 clyent==1.2.2
 conda-repo-cli==1.0.75
 conda-verify==3.4.2
