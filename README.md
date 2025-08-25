@@ -4,7 +4,7 @@
 
 This project presents a simple use case where a [short language model](https://en.wikipedia.org/wiki/Small_language_model) (SLM)
 based on the [transformer](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)) architecture exhibits the unfamous
-phenomenon of [grokking](https://en.wikipedia.org/wiki/Grokking_(machine_learning) through a basic [analogical reasoning mechanism](https://medium.com/@dickson.lukose/analogical-reasoning-d432b7105725).
+phenomenon of [grokking](https://en.wikipedia.org/wiki/Grokking_(machine_learning)) through a basic [analogical reasoning mechanism](https://medium.com/@dickson.lukose/analogical-reasoning-d432b7105725).
 
 
 ## Principle
