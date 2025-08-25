@@ -54,7 +54,7 @@ More investigations are to come. Until there, feel free to try it or test it by 
 Open a terminal and run:
 
 ```bash
-git clone https://github.com/smil22/ANALOGROK.git
+git clone https://github.com/smil22/analogrok.git
 cd ANALOGROK
 ```
 
