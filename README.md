@@ -97,7 +97,7 @@ Navigate to the version folder you want and run the file you prefer, for example
 
 ```bash
 cd analogrok_2g[samples]
-python train.py
+python3 train.py
 ```
 
 ### 6. To deactivate the created environment (optional)
